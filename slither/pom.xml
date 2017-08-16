@@ -21,5 +21,60 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-core -->
+    <dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-core</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-core-awt -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-core-awt</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-game -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-game</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-audio-wav -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-audio-wav</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-network -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-network</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-audio-midi -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-audio-midi</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-core-android -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+   	 	<artifactId>lionengine-core-android</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-audio-sc68 -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-audio-sc68</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.b3dgs.lionengine/lionengine-audio-adplug -->
+	<dependency>
+    	<groupId>com.b3dgs.lionengine</groupId>
+    	<artifactId>lionengine-audio-adplug</artifactId>
+    	<version>8.4.0</version>
+	</dependency>
+	
   </dependencies>
 </project>
