@@ -1,6 +1,6 @@
 package wilson.justin.slither.content.transaction;
 
-import wilson.justin.slither.entity.player.Player;
+import wilson.justin.slither.entity.impl.Player;
 
 public interface Transaction {
 

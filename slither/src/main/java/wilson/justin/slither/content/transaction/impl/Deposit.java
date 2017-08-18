@@ -2,7 +2,7 @@ package wilson.justin.slither.content.transaction.impl;
 
 import wilson.justin.slither.content.transaction.AbstractTransaction;
 import wilson.justin.slither.content.transaction.Currency;
-import wilson.justin.slither.entity.player.Player;
+import wilson.justin.slither.entity.impl.Player;
 
 /**
  * 
