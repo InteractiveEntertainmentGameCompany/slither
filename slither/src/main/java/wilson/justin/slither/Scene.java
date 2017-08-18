@@ -1,6 +1,6 @@
 package wilson.justin.slither;
 
-import wilson.justin.slither.entity.player.Player;
+import wilson.justin.slither.entity.player.PlayerProperties;
 
 import com.b3dgs.lionengine.Context;
 import com.b3dgs.lionengine.Resolution;
@@ -9,7 +9,7 @@ import com.b3dgs.lionengine.graphic.Graphic;
 
 public class Scene extends Sequence {
 	
-	private static Player player = new Player();
+	private static PlayerProperties player = new PlayerProperties();
     public final static Resolution resolution = player.getResolution();
 
     public Scene(Context context)
