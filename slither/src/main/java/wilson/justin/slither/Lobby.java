@@ -12,7 +12,7 @@ import com.b3dgs.lionengine.graphic.Graphic;
  */
 public class Lobby extends Sequence {
 	
-	private static Resolution lobbyResolution = new Resolution(20, 240, 60).get3x();
+	private static Resolution lobbyResolution = new Resolution(320, 240, 60).get3x();
 
     public Lobby(Context context)
     {
